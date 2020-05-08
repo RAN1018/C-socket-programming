@@ -1,0 +1,10 @@
+C:\Users\Ran\Desktop\socket编程\C#\clientTCP\clientTCP\bin\Debug\clientTCP.exe.config
+C:\Users\Ran\Desktop\socket编程\C#\clientTCP\clientTCP\bin\Debug\clientTCP.exe
+C:\Users\Ran\Desktop\socket编程\C#\clientTCP\clientTCP\bin\Debug\clientTCP.pdb
+C:\Users\Ran\Desktop\socket编程\C#\clientTCP\clientTCP\obj\Debug\clientTCP.csprojAssemblyReference.cache
+C:\Users\Ran\Desktop\socket编程\C#\clientTCP\clientTCP\obj\Debug\clientTCP.Form1.resources
+C:\Users\Ran\Desktop\socket编程\C#\clientTCP\clientTCP\obj\Debug\clientTCP.Properties.Resources.resources
+C:\Users\Ran\Desktop\socket编程\C#\clientTCP\clientTCP\obj\Debug\clientTCP.csproj.GenerateResource.cache
+C:\Users\Ran\Desktop\socket编程\C#\clientTCP\clientTCP\obj\Debug\clientTCP.csproj.CoreCompileInputs.cache
+C:\Users\Ran\Desktop\socket编程\C#\clientTCP\clientTCP\obj\Debug\clientTCP.exe
+C:\Users\Ran\Desktop\socket编程\C#\clientTCP\clientTCP\obj\Debug\clientTCP.pdb

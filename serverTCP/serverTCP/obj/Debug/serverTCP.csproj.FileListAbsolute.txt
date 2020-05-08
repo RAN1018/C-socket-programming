@@ -1,0 +1,10 @@
+C:\Users\Ran\Desktop\socket编程\C#\serverTCP\serverTCP\obj\Debug\serverTCP.csprojAssemblyReference.cache
+C:\Users\Ran\Desktop\socket编程\C#\serverTCP\serverTCP\obj\Debug\serverTCP.Properties.Resources.resources
+C:\Users\Ran\Desktop\socket编程\C#\serverTCP\serverTCP\obj\Debug\serverTCP.csproj.GenerateResource.cache
+C:\Users\Ran\Desktop\socket编程\C#\serverTCP\serverTCP\obj\Debug\serverTCP.csproj.CoreCompileInputs.cache
+C:\Users\Ran\Desktop\socket编程\C#\serverTCP\serverTCP\bin\Debug\serverTCP.exe.config
+C:\Users\Ran\Desktop\socket编程\C#\serverTCP\serverTCP\bin\Debug\serverTCP.exe
+C:\Users\Ran\Desktop\socket编程\C#\serverTCP\serverTCP\bin\Debug\serverTCP.pdb
+C:\Users\Ran\Desktop\socket编程\C#\serverTCP\serverTCP\obj\Debug\serverTCP.exe
+C:\Users\Ran\Desktop\socket编程\C#\serverTCP\serverTCP\obj\Debug\serverTCP.pdb
+C:\Users\Ran\Desktop\socket编程\C#\serverTCP\serverTCP\obj\Debug\serverTCP.Server.resources
